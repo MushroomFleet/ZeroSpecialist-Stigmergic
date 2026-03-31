@@ -46,43 +46,16 @@ Named after how ants coordinate through pheromone trails. When a specialist-appr
 
 ## Quick Start
 
-### Option 1: Desktop Application (Recommended)
+### Option 1: Desktop Application (Recommended) Openrouter API
 
-Download the latest MSI installer from [Releases](https://github.com/MushroomFleet/ZeroSpecialist-Stigmergic-dev/releases).
+Download the latest MSI installer from [Releases](https://github.com/MushroomFleet/ZeroSpecialist-Stigmergic/releases).
 
 1. Install and launch **ZeroSpecialist Stigmergic**
 2. Navigate to **Settings** and add your **OpenRouter.ai API key**
 3. Select a model — **Claude Sonnet 4.6** recommended, with `:online` variant for web search grounding
 4. Start chatting — the swarm coordinates automatically
 
-### Option 2: Local Development
-
-#### Prerequisites
-- **Node.js** (v18+)
-- **Rust** toolchain (for Tauri builds)
-- **OpenRouter.ai API key** for LLM access
-
-#### Installation
-
-```bash
-git clone https://github.com/MushroomFleet/ZeroSpecialist-Stigmergic-dev.git
-cd ZeroSpecialist-Stigmergic-dev/Hybrid-Swarm-Local
-npm install
-```
-
-#### Development Server
-```bash
-npm run dev
-```
-
-#### Build Tauri Desktop App
-```bash
-npx tauri build
-```
-
-Produces MSI and NSIS installers in `src-tauri/target/release/bundle/`.
-
-### Option 3: Ollama Offline Mode
+### Option 2: Desktop Application (UNTESTED) Ollama
 
 Run completely offline with local LLMs — no API keys or internet required:
 
