@@ -109,6 +109,7 @@ Local mode supports single-specialist and dual-execution modes, optimized for co
 
 - [Cognition-9](https://github.com/MushroomFleet/Cognition-9) — Sub Agent Topology Study, experimental origins
 - [Hybrid Swarm Agent](https://github.com/MushroomFleet/Hybrid-Swarm-Agent) — Claude Code agent implementation
+- [Zerobytes Family Skills](https://github.com/MushroomFleet/ZeroBytes-Family-Skills) - Determinism Skill collection
 
 ## Citation
 
@@ -117,7 +118,7 @@ Local mode supports single-specialist and dual-execution modes, optimized for co
   title = {ZeroSpecialist Stigmergic: Deterministic AI Swarm Orchestration},
   author = {Drift Johnson},
   year = {2025},
-  url = {https://github.com/MushroomFleet/ZeroSpecialist-Stigmergic-dev},
+  url = {https://github.com/MushroomFleet/ZeroSpecialist-Stigmergic},
   version = {0.6.4}
 }
 ```
