@@ -4,6 +4,7 @@ A Tauri desktop application implementing **three-layer swarm intelligence** with
 
 LIVE WEB: [https://scuffedepoch.com/zerospecialist-swarm/](https://scuffedepoch.com/zerospecialist-swarm/)
 LIVE EDU: [https://scuffedepoch.com/zerospecialist-web/](https://scuffedepoch.com/zerospecialist-web/)
+PIPELINE-AS-NARRATIVE: [ZeroSpecialist-Stigmergic-Journey.md](https://github.com/MushroomFleet/ZeroSpecialist-Stigmergic/blob/main/ZeroSpecialist-Stigmergic-Journey.md)
 
 ## The ZeroSpecialist Advantage
 
