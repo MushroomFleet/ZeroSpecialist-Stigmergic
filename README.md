@@ -2,6 +2,8 @@
 
 A Tauri desktop application implementing **three-layer swarm intelligence** with deterministic seed-hash agents, dynamic approaches, and stigmergic coordination. ZeroSpecialist replaces mutable agent configurations with a pure coordinate-hash architecture — every specialist is a deterministic function of a 4-integer seed tuple, enabling an addressable space of **4.2 billion unique agents** while storing each identity as a 128-bit seed reference instead of a 4,000-token system prompt.
 
+LIVE WEB: [https://scuffedepoch.com/zerospecialist-swarm/](https://scuffedepoch.com/zerospecialist-swarm/)
+
 ## The ZeroSpecialist Advantage
 
 Traditional AI orchestration systems store full system prompts for each specialist — typically 2,000–4,000 tokens per agent. ZeroSpecialist eliminates this entirely:
